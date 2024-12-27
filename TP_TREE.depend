@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733504381 source:c:\users\user\documents\kuliah\sem 3\struktur data\tp_tree\main.cpp
+	<iostream>
+	"header.h"
+
+1733501376 c:\users\user\documents\kuliah\sem 3\struktur data\tp_tree\header.h
+	<iostream>
+
+1733503680 source:c:\users\user\documents\kuliah\sem 3\struktur data\tp_tree\cpp.cpp
+	"header.h"
+
